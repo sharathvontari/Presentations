@@ -27,3 +27,31 @@ Example – CDT, ObjectAid etc.
 **Eclipse Platform** - Common base for all development, Includes runtime,frameworks etc
 
 **JVM** - JAVA VIRTUAL MACHINE An abstract computing machine that enables a computer to run a Java program
+
+
+###**Eclipse User-Interface**
+User Interface of Eclipse can be changed according to the user preferences. This is the typical UI provided.
+
+![alt text](https://github.com/pkdevaraj/Software-Engineering-Presentations/blob/master/images/img2.png "EclipseArchitecture1")
+
+The position of any forms (views in Eclipse) can be customised according to the user requirements.
+
+#**Why Eclipse**
+
+There are several reasons to use Eclipse. A few of them include:
+- Open Source – Free of Cost.
+- Supports most of the programming languages with appropriate plugins.
+- Single tool that can be used for design, development, testing etc.
+- User Friendly (Intuitive User Interface).
+- Can be integrated with several Version management (Ex: Perforce etc) and build softwares(Ex: ANT).
+- Available on most of the platforms
+
+#**Getting Eclipse**
+
+- Download the latest version from [here](http://www.eclipse.org/).
+- You may need to install Java SDK1.6 or JRE if you haven’t from [here](http://www.oracle.com/technetwork/indexes/downloads/index.html#java).
+- After installation the path variable is to be set to the bin folder of java installation.
+- Unpack the package and run eclipse.exe in windows or eclipse in Linux.
+
+
+
