@@ -20,9 +20,15 @@
 
 ![alt text](https://github.com/pkdevaraj/Software-Engineering-Presentations/blob/master/images/img31.png "projectTestskeleton")
 
-- Write the test cases for individual modules or methods and run the test cases. To run the test cases right click on project -> run as ->junit test.
+- Write the test cases for individual modules or methods and run the test cases. To run the test cases right click on project > run as >junit test.
 - Once the test case is executed it shows the results as shown in in the Junit view of Eclipse.
 
+![alt text](https://github.com/pkdevaraj/Software-Engineering-Presentations/blob/master/images/img30.png "projecttestresult")
+
+- The results are of 3 kinds
+  * Errors : Test Cases with errors
+  * Failures : Test cases with wrong logic
+  * Success : Test cases that passed the test.
 
 
 
