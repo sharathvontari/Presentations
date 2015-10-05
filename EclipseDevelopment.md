@@ -70,5 +70,37 @@
 - Set the break points on the lines which are to be debugged. Click on debug option a dialog box appears as a check for switching perspectives. The Debug perspective is shown below.
 ![alt text](https://github.com/pkdevaraj/Software-Engineering-Presentations/blob/master/images/img22.PNG "ProjectDebug")
 
+##**Eclipse java Debugger**
+
+- Run Java programs
+  * In separate target JVM (user selectable)
+  * Console provides stdout, stdin, stderr for input, output and errors.
+  * Scrapbook pages for executing Java code snippets
+- Debug Java programs
+  * Full source code debugging
+  * Any JPDA-compliant JVM
+- Debugger features include
+  * Method and exception breakpoints
+  * Conditional breakpoints
+  * Watchpoints
+  * Step over, into, return; run to line
+  * Inspect and modify fields and local variables
+  * Evaluate snippets in context of method
+  * Hot swap (if target JVM supports)
+
+##**Eclipse Code Comparison**
+- Eclipse offers a feature to compare the content of a file at different instances of time. This enables us to identify the changes made after the last stable version of the code.
+- To compare the code Right click on the file and select Compare with and check local history.
+- This shows the files at different time stamps in the history view as shown below.
+
+![alt text](https://github.com/pkdevaraj/Software-Engineering-Presentations/blob/master/images/img24.png "Projecthistory")
+
+- Eclipse allows replacement of the old contents of the file into the current file contents by considering this File history.
+- Once the appropriate entry is selected the code difference is displayed as shown in the fig below. Changes can be viewed and compared using the options provided by the editor to spot the changes (highlighted in red)
+
+![alt text](https://github.com/pkdevaraj/Software-Engineering-Presentations/blob/master/images/img25.png "ProjectCompare")
+- Changes can be compared either using the java source compare or general text compare. This can be chosen with the options available. 
+
+![alt text](https://github.com/pkdevaraj/Software-Engineering-Presentations/blob/master/images/img26.png "ProjectJavaCompare")
 
 
