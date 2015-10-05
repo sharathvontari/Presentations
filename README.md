@@ -18,6 +18,6 @@ This repository contains the slides of my CSCI 5828 presentation 1 on ECLIPSE ID
 
 6) [Overview of other Features in Eclipse](https://github.com/pkdevaraj/Presentations/blob/gh-pages/EclipseFeatures.md)
 
-7) [Conclusion]()
+7) [Conclusion](https://github.com/pkdevaraj/Presentations/blob/d3c076b65082282afd1a8017748a5264b6e81689/Conclusion.md)
 
 5) [References](https://github.com/pkdevaraj/Presentations/blob/gh-pages/References.md)
