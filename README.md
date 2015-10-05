@@ -16,8 +16,8 @@ This repository contains the slides of my CSCI 5828 presentation 1 on ECLIPSE ID
 
 5) [Eclipse in Source Control](https://github.com/pkdevaraj/Presentations/blob/e3a182c0ff57ff5cb517f596c21f7ffe9888f0a3/EclipseSourceControl.md)
 
-6) [Overview of other Features in Eclipse]()
+6) [Overview of other Features in Eclipse](https://github.com/pkdevaraj/Presentations/blob/gh-pages/EclipseFeatures.md)
 
 7) [Conclusion]()
 
-5) [References]()
+5) [References](https://github.com/pkdevaraj/Presentations/blob/gh-pages/References.md)
