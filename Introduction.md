@@ -83,3 +83,15 @@ There are several reasons to use Eclipse. A few of them include:
 - The Eclipse runtime defines the plug-ins (org.eclipse.osgi and org.eclipse.core.runtime) on which all other plug-ins depend and is responsible for defining a structure for plug-ins and the implementation details of the same.
 - The runtime is also responsible for finding and executing the main Eclipse application and for maintaining a registry of plug-ins, their extensions, and extension points.
 - The runtime also provides utilities, such as logging, debug trace options, adapters, a preference store, and a concurrency infrastructure.
+
+##**Eclipse Platform Architecture Detailed Overview**
+
+![alt text](https://github.com/pkdevaraj/Software-Engineering-Presentations/blob/master/images/Img4.PNG "EclipseArchitecture3")
+
+The JDT project provides the tool plug-ins that implement a Java IDE supporting the development of any Java application, including Eclipse plug-ins.
+
+The Plug-in Development Environment (PDE) provides tools to create, develop, test, debug, build and deploy Eclipse plug-ins, fragments, features, update sites and RCP products.
+
+SWT – Standard Widget Toolkit - Used for generic low level graphics and widget set.
+
+JFace - UI frameworks for common UI tasks
