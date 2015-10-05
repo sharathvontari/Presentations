@@ -53,6 +53,9 @@
 - Similarly Eclipse offers a wide range of plugins for many Source Control SCMs.
 - More information on Egit can be found [here](https://wiki.eclipse.org/EGit/User_Guide).
 
+[**NEXT**](https://github.com/pkdevaraj/Presentations/blob/gh-pages/EclipseFeatures.md)     
+
+[**BACK TO CONTENTS**](https://github.com/pkdevaraj/Presentations/blob/gh-pages/README.md)
 
 
 
