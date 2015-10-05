@@ -8,3 +8,5 @@
 - http://www.eclipse.org/egit
 - http://ant.apache.org
 - https://marketplace.eclipse.org/content/callgraph-viewer#sthash.CVhMjnkx.dpuf
+- http://www.eclipse.org/pde
+- http://wiki.eclipse.org
