@@ -1,5 +1,4 @@
 ## ECLIPSE
-##Student: Praveen Kumar Devaraj (prde1873) and Sharath Vontari (shvo9452)
 ##Presentation 1
 
 This repository contains the slides of my CSCI 5828 presentation 1 on ECLIPSE IDE.
