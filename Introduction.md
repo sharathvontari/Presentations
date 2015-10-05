@@ -27,11 +27,3 @@ Example – CDT, ObjectAid etc.
 **Eclipse Platform** - Common base for all development, Includes runtime,frameworks etc
 
 **JVM** - JAVA VIRTUAL MACHINE An abstract computing machine that enables a computer to run a Java program
-
-###**Eclipse User-Interface**
-
-![alt text](https://github.com/pkdevaraj/Software-Engineering-Presentations/blob/master/images/img2.png "EclipseArchitecture")
-
-
-
-
